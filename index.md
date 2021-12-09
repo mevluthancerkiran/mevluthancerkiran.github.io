@@ -43,3 +43,5 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 ### Get My Resume
+### 	||
+###		\/
